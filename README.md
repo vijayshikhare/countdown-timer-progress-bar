@@ -38,6 +38,14 @@ countdown-timer/
 └── README.md
 ```
 
+---
+
+## 📌 Tags / SEO Keywords
+
+`countdown-timer`, `html css js project`, `javascript countdown`, `web development project`, `frontend mini project`, `vijay shikhare`, `shikharecoder`, `responsive timer`, `event tracker`, `countdown clock`
+
+---
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vijayshikhare/countdown-timer/issues).
