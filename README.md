@@ -2,6 +2,20 @@
 
 Welcome to the **CountDown Timer** project – a sleek and interactive countdown timer built with **HTML**, **CSS**, and **JavaScript**. This project includes a visual timer and a progress bar for better user experience.
 
+---
+
+## 📌 Overview
+
+This project implements a countdown to a target date (`30 June 2025, 17:19:00`) and shows:
+
+- Remaining days, hours, minutes, and seconds
+- A progress bar indicating time elapsed
+- Auto stop and status message when time expires
+
+It’s perfect for events, sales, deadlines, webinars, or launches.
+
+---
+
 ## 🔥 Features
 
 - Real-time countdown (days, hours, minutes, seconds)
@@ -13,9 +27,6 @@ Welcome to the **CountDown Timer** project – a sleek and interactive countdown
 
 ![Countdown Demo](https://github.com/user-attachments/assets/demo-countdown.gif)
 
-## 🚀 Live Demo
-
-[Live Website](https://vijayshikhare.github.io/countdown-timer/) <!-- Replace with actual URL -->
 
 ## 🛠️ Tech Stack
 
@@ -34,22 +45,38 @@ Welcome to the **CountDown Timer** project – a sleek and interactive countdown
 countdown-timer/
 ├── e-60.css
 ├── e-60.js
-├── index.html
+├── e-60.html
 └── README.md
 ```
 
 ---
 
-## 📌 Tags / SEO Keywords
+## 🔧 How to Use
 
-`countdown-timer`, `html css js project`, `javascript countdown`, `web development project`, `frontend mini project`, `vijay shikhare`, `shikharecoder`, `responsive timer`, `event tracker`, `countdown clock`
+1. Clone the repo:
+```bash
+git clone https://github.com/vijayshikhare/countdown-timer-progress-bar
+```
+2. Open `e-60.html` in a browser
+3. Edit the `endDate` in `e-60.js` if needed
 
 ---
 
-## 🤝 Contributing
+---
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vijayshikhare/countdown-timer/issues).
+## 📌 Tags / SEO Keywords
 
-## 📄 License
+`countdown-timer`, `html css js project`, `javascript countdown`, `web development project`, `frontend mini project`, `vijay shikhare`, `shikharecoder`, `responsive timer`, `event tracker`, `countdown clock`, `JavaScript countdown`, `live countdown`, `HTML timer`, `progress bar`, `deadline tracker`
 
-© 2024 Vijay Shikhare. All rights reserved.
+---
+
+## 🙌 Contributions
+
+Feel free to fork and improve this project for your next hackathon or personal landing page!
+
+---
+
+## 👨‍💻 Developed by
+
+[Vijay Shikhare](https://github.com/vijayshikhare)
+
